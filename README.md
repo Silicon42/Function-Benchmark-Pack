@@ -2,6 +2,7 @@
 A simple function efficiency tester data pack
 
 Pack Creator: Silicon42
+
 Official Repo: https://github.com/Silicon42/Function-Benchmark-Pack
 
 This pack is meant to help judge the efficiency of one function (or command) versus another. It does this by attempting to run a number of instances of the function in each tick and seeing how long they took to complete. It is not meant to be a definitive benchmark of your computer and the values that it reports are only meaningfully comparable when under the same conditions on the same computer. Basically it's only useful when you want to know if function A is significantly more or less efficient than function B.
